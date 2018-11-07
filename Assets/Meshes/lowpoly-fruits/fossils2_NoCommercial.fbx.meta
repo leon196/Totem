@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: c37ecb89decafb445b8dd9dc2d4fed3d
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: fossil02
+    100002: fossil03
+    100004: fossil05
+    100006: fossil06
+    100008: fossil07
+    100010: fossil08
+    100012: fossil09
+    100014: fossil10
+    100016: fossil12
+    100018: fossil13
+    100020: fossil14
+    100022: fossil15
+    100024: fossil16
+    100026: fossil17
+    100028: fossil18
+    100030: fossil19
+    100032: fossil20
+    100034: fossil21
+    100036: fossil22
+    100038: fossil23
+    100040: //RootNode
+    400000: fossil02
+    400002: fossil03
+    400004: fossil05
+    400006: fossil06
+    400008: fossil07
+    400010: fossil08
+    400012: fossil09
+    400014: fossil10
+    400016: fossil12
+    400018: fossil13
+    400020: fossil14
+    400022: fossil15
+    400024: fossil16
+    400026: fossil17
+    400028: fossil18
+    400030: fossil19
+    400032: fossil20
+    400034: fossil21
+    400036: fossil22
+    400038: fossil23
+    400040: //RootNode
+    2100000: fossil08
+    2100002: fossil05
+    2100004: fossil15
+    2100006: fossil14
+    2100008: fossil03
+    2100010: fossil16
+    2100012: fossil13
+    2100014: fossil07
+    2100016: fossil18
+    2100018: fossil20
+    2100020: fossil17
+    2100022: fossil02
+    2100024: fossil06
+    2100026: fossil10
+    2100028: fossil19
+    2100030: fossil12
+    2100032: fossil09
+    2100034: fossil21
+    2100036: fossil22
+    2100038: fossil23
+    2300000: fossil02
+    2300002: fossil03
+    2300004: fossil05
+    2300006: fossil06
+    2300008: fossil07
+    2300010: fossil08
+    2300012: fossil09
+    2300014: fossil10
+    2300016: fossil12
+    2300018: fossil13
+    2300020: fossil14
+    2300022: fossil15
+    2300024: fossil16
+    2300026: fossil17
+    2300028: fossil18
+    2300030: fossil19
+    2300032: fossil20
+    2300034: fossil21
+    2300036: fossil22
+    2300038: fossil23
+    3300000: fossil02
+    3300002: fossil03
+    3300004: fossil05
+    3300006: fossil06
+    3300008: fossil07
+    3300010: fossil08
+    3300012: fossil09
+    3300014: fossil10
+    3300016: fossil12
+    3300018: fossil13
+    3300020: fossil14
+    3300022: fossil15
+    3300024: fossil16
+    3300026: fossil17
+    3300028: fossil18
+    3300030: fossil19
+    3300032: fossil20
+    3300034: fossil21
+    3300036: fossil22
+    3300038: fossil23
+    4300000: fossil08
+    4300002: fossil05
+    4300004: fossil15
+    4300006: fossil14
+    4300008: fossil03
+    4300010: fossil16
+    4300012: fossil13
+    4300014: fossil07
+    4300016: fossil18
+    4300018: fossil20
+    4300020: fossil17
+    4300022: fossil02
+    4300024: fossil06
+    4300026: fossil10
+    4300028: fossil19
+    4300030: fossil12
+    4300032: fossil09
+    4300034: fossil21
+    4300036: fossil22
+    4300038: fossil23
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 80
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
